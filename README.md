@@ -18,31 +18,33 @@ I build modern, responsive web applications using the MERN Stack.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DevMerera&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMerera&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
-
-## 🔥 GitHub Streak
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=DevMerera&theme=github-dark-blue&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=merera-ta&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=merera-ta&theme=tokyonight"
+    alt="GitHub Stats"
+    width="49%"
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merera-ta&theme=tokyonight"
+    alt="Top Languages"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=merera-ta&theme=tokyonight"
+    alt="Most Used Languages"
+    width="49%"
+  />
+</p>
 ---
 
 ## 🚀 Currently
