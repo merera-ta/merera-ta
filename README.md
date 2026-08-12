@@ -21,16 +21,26 @@ I build modern, responsive web applications using the MERN Stack.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMerera&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMerera&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DevMerera&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
 
----
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMerera&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevMerera&theme=github-dark-blue&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=DevMerera&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
