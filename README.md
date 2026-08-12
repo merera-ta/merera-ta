@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Merera Taddesa
 
-<!--
-**merera-ta/merera-ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | Software Engineering Student
 
-Here are some ideas to get you started:
+I build modern, responsive web applications using the MERN Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMerera&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMerera&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DevMerera&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Currently
+
+- 🌱 Learning and improving my MERN Stack skills
+- 💻 Building real-world projects
+- 🧠 Improving my problem-solving skills
+- 🎯 Working toward becoming a professional Full Stack Developer
+
+---
+
+## 📫 Connect With Me
+
+📧 mererataddesa5@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
