@@ -16,7 +16,6 @@ I build modern, responsive web applications using the MERN Stack.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 ---
----
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
