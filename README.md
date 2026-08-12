@@ -22,7 +22,7 @@ I build modern, responsive web applications using the MERN Stack.
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=merera-ta&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=merera-ta&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     width="49%"
   />
