@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Merera+Taddesa;Computer+Science+Student;MERN+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Merera+Taddesa;Computer+Science+Student;Passionate+MERN+Stack+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -16,10 +16,10 @@
 
 ```javascript
 const merera = {
-  role: "CS Student & Full-Stack Developer",
+  role: "CS Student & Passionate Full-Stack Developer",
   focus: ["MERN Stack", "System Design", "UI/UX"],
   currentlyLearning: "Next.js & PostgreSQL",
   lifePhilosophy: "Consistency beats intensity. 70% building, 30% learning.",
   askMeAbout: ["React", "Node.js", "JavaScript", "Database Design"],
-  contact: { email: "YOUR-EMAIL@gmail.com" }
+  contact: { email: "mererataddesa1@gmail.com" }
 };
