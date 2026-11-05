@@ -1,65 +1,24 @@
-# Hi 👋, I'm Merera Taddesa
+<!-- Dynamic Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Merera+Taddesa;Computer+Science+Student;Full-Stack+MERN+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
 
-### MERN Stack Developer | Software Engineering Student
-
-I build modern, responsive web applications using the MERN Stack.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
+<!-- Interactive Social Badges -->
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=merera-ta&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=merera-ta&theme=tokyonight"
-    alt="GitHub Stats"
-    width="49%"
-  />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=merera-ta&theme=tokyonight"
-    alt="Top Languages"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=merera-ta&theme=tokyonight"
-    alt="Most Used Languages"
-    width="49%"
-  />
-</p>
 ---
 
-## 🚀 Currently
-
-- 🌱 Learning and improving my MERN Stack skills
-- 💻 Building real-world projects
-- 🧠 Improving my problem-solving skills
-- 🎯 Working toward becoming a professional Full Stack Developer
-
----
-
-## 📫 Connect With Me
-
-📧 mererataddesa5@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
+### 👨‍💻 About Me 
+```javascript
+const merera = {
+  role: "CS Student & Full-Stack Developer",
+  focus: ["MERN Stack", "System Design", "UI/UX"],
+  currentlyLearning: "Next.js & PostgreSQL",
+  lifePhilosophy: "Consistency beats intensity. 70% building, 30% learning.",
+  askMeAbout: ["React", "Node.js", "JavaScript", "Database Design"],
+  contact: { email: "YOUR-EMAIL@gmail.com" }
+};
