@@ -39,7 +39,7 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merera&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/7C83FD/merera" alt="Contribution calendar" />
 </p>
 
 ## Contact
