@@ -13,7 +13,8 @@
 
 ## About
 
-I'm a passionate full-stack developer who enjoys turning ideas into complete products, from REST APIs and database design to responsive React interfaces. I'm currently strengthening my skills in backend architecture, deployment, and clean project structure, and I'm open to internships and collaboration.
+I'm a passionate full-stack developer who enjoys turning ideas into complete products. I work across the whole stack: designing REST APIs and database models with Node.js, Express, and MongoDB, and building responsive, user-friendly interfaces with React.
+
 
 ## Tech Stack
 
