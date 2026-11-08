@@ -1,14 +1,19 @@
-<h1 align="center">Merera</h1>
+<h1 align="center">
+  <a href="https://github.com/merera">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=520&height=60&lines=Hi,+I'm+Merera;Passionate+Full-Stack+Developer;CS+Student+%7C+MERN+Stack" alt="Typing animation" />
+  </a>
+</h1>
+
 <p align="center">
   Computer Science student at Jimma University, Ethiopia<br/>
-  Full-stack developer building web applications with the MERN stack
+  Passionate full-stack developer building modern web applications with the MERN stack
 </p>
 
 ---
 
 ## About
 
-I design and build full-stack web applications, from REST APIs and database models to responsive React interfaces. I'm currently strengthening my skills in backend architecture, deployment, and clean project structure, and I'm open to internships and collaboration.
+I'm a passionate full-stack developer who enjoys turning ideas into complete products, from REST APIs and database design to responsive React interfaces. I'm currently strengthening my skills in backend architecture, deployment, and clean project structure, and I'm open to internships and collaboration.
 
 ## Tech Stack
 
