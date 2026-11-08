@@ -35,21 +35,16 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [School Task Manager](https://github.com/merera/YOUR-REPO-NAME) | Task management app with CRUD, search, filtering, sorting and a responsive dashboard | React, Express, MongoDB |
-
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=merera&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merera&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=merera&theme=tokyonight&hide_border=true" />
 </p>
 
+## Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=merera&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merera&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 ## Contact
