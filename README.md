@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/merera">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=520&height=60&lines=Hi,+I'm+Merera;Passionate+Full-Stack+Developer;CS+Student+%7C+MERN+Stack" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&height=60&lines=Hi,+I'm+Merera;Passionate+Full-Stack+Developer;CS+Student+%7C+MERN+Stack" alt="Typing animation" />
   </a>
 </h1>
 
@@ -35,12 +35,6 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=merera&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Contribution Graph
 
 <p align="center">
@@ -49,5 +43,5 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mererataddesa1gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/merera-taddesa/)
