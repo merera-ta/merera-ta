@@ -36,12 +36,6 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7C83FD/merera" alt="Contribution calendar" />
-</p>
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mererataddesa1gmail.com)
