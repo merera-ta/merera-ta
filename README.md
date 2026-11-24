@@ -36,19 +36,15 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merera&show_icons=true&theme=radical" alt="merera's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merera&layout=compact&theme=radical" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=merera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merera&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=merera&theme=radical" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merera&theme=react-dark&hide_border=true" alt="Activity graph" />
+  <img src="https://streak-stats.demolab.com?user=merera&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 ## Contact
