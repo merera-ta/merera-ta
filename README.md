@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/merera">
+  <a href="https://github.com/merera-ta">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&height=60&lines=Hi,+I'm+Merera;Passionate+Full-Stack+Developer;CS+Student+%7C+MERN+Stack" alt="Typing animation" />
   </a>
 </h1>
@@ -39,7 +39,7 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=merera-ta&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merera-ta&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
