@@ -39,12 +39,12 @@ I'm a passionate full-stack developer who enjoys turning ideas into complete pro
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=merera&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merera&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merera-ta&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=merera&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=merera-ta&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 ## Contact
